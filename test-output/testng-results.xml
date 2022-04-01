@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16395" started-at="2022-04-01T14:20:19Z" finished-at="2022-04-01T14:20:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16395" started-at="2022-04-01T14:20:19Z" finished-at="2022-04-01T14:20:36Z">
+      <class name="com.Project.Adactin_Runner_Class">
+        <test-method status="PASS" signature="report_Generation()[pri:0, instance:com.Project.Adactin_Runner_Class@6e15fe2]" name="report_Generation" is-config="true" duration-ms="400" started-at="2022-04-01T19:50:19Z" finished-at="2022-04-01T19:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_Generation -->
+        <test-method status="PASS" signature="After_Browser_Launch()[pri:0, instance:com.Project.Adactin_Runner_Class@6e15fe2]" name="After_Browser_Launch" is-config="true" duration-ms="3217" started-at="2022-04-01T19:50:20Z" finished-at="2022-04-01T19:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Browser_Launch -->
+        <test-method status="PASS" signature="HotelToBeSelected()[pri:1, instance:com.Project.Adactin_Runner_Class@6e15fe2]" name="HotelToBeSelected" duration-ms="3519" started-at="2022-04-01T19:50:23Z" finished-at="2022-04-01T19:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelToBeSelected -->
+        <test-method status="PASS" signature="HotelToBeBooked()[pri:2, instance:com.Project.Adactin_Runner_Class@6e15fe2]" name="HotelToBeBooked" duration-ms="8454" started-at="2022-04-01T19:50:27Z" finished-at="2022-04-01T19:50:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelToBeBooked -->
+        <test-method status="PASS" signature="Final_Method()[pri:0, instance:com.Project.Adactin_Runner_Class@6e15fe2]" name="Final_Method" is-config="true" duration-ms="169" started-at="2022-04-01T19:50:35Z" finished-at="2022-04-01T19:50:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Final_Method -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:com.Project.Adactin_Runner_Class@6e15fe2]" name="flush" is-config="true" duration-ms="599" started-at="2022-04-01T19:50:35Z" finished-at="2022-04-01T19:50:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- com.Project.Adactin_Runner_Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
